@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gilroy-Bold';
+}
+
+.about_me{
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    height: 600px;
+    width: 100%;
+}
+
